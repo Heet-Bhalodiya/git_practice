@@ -1,0 +1,3 @@
+Hello my name is alice.! from new branch change_alice
+In the diagram below you see how our commit history now looks. Both master and change_alice originated from the same commit, but since then they diverged, each having their own additional commit.
+added some more text in alice file 
