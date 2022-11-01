@@ -1,4 +1,2 @@
 Hello my name is Not bob. 
-sorry my name is not bob but my name is bobby and I have been here for while.
-
-this line is for learning cherry pick topic from git.
+sorry my name is not bob. my name is bobby and I have been here for while.
